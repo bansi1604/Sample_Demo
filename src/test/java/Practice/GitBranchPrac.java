@@ -7,6 +7,7 @@ public class GitBranchPrac {
 	@Test
 	public void GitBranchPrac()
 	{
-		System.out.println("This is the paushed through branch");
+		System.out.println("This is  paushed through branch");
+		
 	}
 }
