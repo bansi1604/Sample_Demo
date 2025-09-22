@@ -10,7 +10,7 @@ public class GitBranchPrac {
 		System.out.println("This is  paushed through branch");
 		System.out.println("Paushed from the ATE workspace for GIT conflict");
 		System.out.println("Hiii");
-		
-		
+		System.out.println("Paushed from the ATE workspace for GIT practice conflict");
+
 	}
 }
